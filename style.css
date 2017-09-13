@@ -9,5 +9,15 @@ img{
   height: 200px;
   width: auto;
 }
+p.serif{
+    font-family: "Times New Roman", Times, serif;
+  }
 p {
+    margin-top: 80px;
+    margin-bottom: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+a:link{
+    background-color: yellow;
 }
