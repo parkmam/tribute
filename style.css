@@ -4,6 +4,8 @@ html {
 body {
   width: 80%;
   margin: 0 auto;
+  background: #FFF;
+  padding: 20px 40px;
 }
 img{
   height: 200px;
@@ -25,3 +27,8 @@ a:link{
 }
 h1{text-align: center;}
 h2{text-align: center;}
+footer p {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
